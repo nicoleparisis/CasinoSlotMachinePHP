@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<average_playtime>
+  <game>
+    <time_played>0:3:13</time_played>
+    <amount_cashed_out>0.40</amount_cashed_out>
+  </game>
+  <game>
+    <time_played>0:4:19</time_played>
+    <amount_cashed_out>0.40</amount_cashed_out>
+  </game>
+  <game>
+    <time_played>0:1:49</time_played>
+    <amount_cashed_out>72.30</amount_cashed_out>
+  </game>
+</average_playtime>

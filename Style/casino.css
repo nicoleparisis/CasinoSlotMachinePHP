@@ -1,0 +1,39 @@
+
+body{
+	background-color:#383636;
+	color:#e81b1b;
+}
+
+h1{
+	font-family:Georgia, serif;
+	color: #ffc34d;
+}
+           table{
+				border:5px solid #ffc34d;
+				padding:30px;
+				border-radius: 15px;
+				background-color:white;
+				
+			}
+			td{
+				font-size:25px;
+				padding-left:40px;
+				padding-right:40px;
+				padding-top:25px;
+				padding-bottom:25px;
+			}
+			.new-game-fields{
+				display:none;
+			}
+			
+			.blink{
+				display:none;
+			}
+			.float-left{
+				float:left;
+			}
+			#spin{
+				width:200px;
+			}
+
+            
